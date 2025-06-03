@@ -24,7 +24,7 @@
 - [**serializers.py**](https://gist.github.com/polyedr/178e06d9a767b8475bf85035802b4485#file-serializers-py)  
   DRF-сериализаторы с вложенными объектами, безопасным обновлением пароля, интеграцией профилей (adevi).  
   [README](https://gist.github.com/polyedr/178e06d9a767b8475bf85035802b4485#file-readme-md)  
-- [**local.py**][https://gist.github.com/polyedr/5655eb1b5347e18375503f1ab5ae6094#file-local-py]  
+- [**local.py**](https://gist.github.com/polyedr/5655eb1b5347e18375503f1ab5ae6094#file-local-py)  
   Локальные настройки Django для изолированной разработки (adevi).  
   [README](https://gist.github.com/polyedr/5655eb1b5347e18375503f1ab5ae6094#file-readme-md)  
 - [**tasks.py**](https://gist.github.com/polyedr/72e6c40d94349d94b82a093b645c307e#file-tasks-py)  
