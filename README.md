@@ -15,24 +15,24 @@
 - [**models.py**](https://gist.github.com/polyedr/c7783f00c20839c7c1233f2aacfe510a#file-models-py)  
   SQLAlchemy-модели для сервиса дедубликации торговых точек: пользователи, API-ключи, базовые методы ORM.  
   [README](https://gist.github.com/polyedr/c7783f00c20839c7c1233f2aacfe510a#file-readme-md)  
-- **task_sd_work.py**  
+- [**task_sd_work.py**](https://gist.github.com/polyedr/a4584e832709eae77d4f439f077b1e07#file-task_sd_work)  
   FSM-логика для Telegram-бота поддержки: обработка тикетов с изменением статусов задач (aiogram, intradesk).  
-  [README]([ссылка-на-gist](https://gist.github.com/polyedr/a4584e832709eae77d4f439f077b1e07))  
-- **categories.py**  
+  [README](https://gist.github.com/polyedr/a4584e832709eae77d4f439f077b1e07#file-readme-md)  
+- [**categories.py**](https://gist.github.com/polyedr/5f291d5137cf0e8ce67b1d454c064db6#file-readme-md)  
   Реализация сортировки категорий через bulk_update в Django REST API (adevi).  
-  [README]([ссылка-на-gist](https://gist.github.com/polyedr/5f291d5137cf0e8ce67b1d454c064db6))  
-- **serializers.py**  
+  [README](https://gist.github.com/polyedr/5f291d5137cf0e8ce67b1d454c064db6#file-readme-md)  
+- [**serializers.py**](https://gist.github.com/polyedr/178e06d9a767b8475bf85035802b4485#file-serializers-py)  
   DRF-сериализаторы с вложенными объектами, безопасным обновлением пароля, интеграцией профилей (adevi).  
-  [README]([ссылка-на-gist](https://gist.github.com/polyedr/178e06d9a767b8475bf85035802b4485))  
-- **local.py**  
+  [README](https://gist.github.com/polyedr/178e06d9a767b8475bf85035802b4485#file-readme-md)  
+- [**local.py**][https://gist.github.com/polyedr/5655eb1b5347e18375503f1ab5ae6094#file-local-py]  
   Локальные настройки Django для изолированной разработки (adevi).  
-  [README]([ссылка-на-gist](https://gist.github.com/polyedr/5655eb1b5347e18375503f1ab5ae6094))  
-- **tasks.py**  
+  [README](https://gist.github.com/polyedr/5655eb1b5347e18375503f1ab5ae6094#file-readme-md)  
+- [**tasks.py**](https://gist.github.com/polyedr/72e6c40d94349d94b82a093b645c307e#file-tasks-py)  
   Фоновые задачи по email-рассылке через Mailgun, реализация retry и управления ключами (hubnexa).  
-  [README]([ссылка-на-gist](https://gist.github.com/polyedr/72e6c40d94349d94b82a093b645c307e))  
-- **make_request.py**  
+  [README](https://gist.github.com/polyedr/72e6c40d94349d94b82a093b645c307e#file-readme-md)  
+- [**make_request.py**](https://gist.github.com/polyedr/f2d94180139518850f6c65be465a5063#file-make_request-py)  
   Email-уведомление после заявки на курс, Flask + SQLAlchemy + Celery (enrichme).  
-  [README]([ссылка-на-gist](https://gist.github.com/polyedr/f2d94180139518850f6c65be465a5063))  
+  [README](https://gist.github.com/polyedr/f2d94180139518850f6c65be465a5063#file-readme-md)  
 
 ---
 
