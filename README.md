@@ -12,9 +12,9 @@
 
 ### Содержание
 
-- **models.py**  
+- [**models.py**](https://gist.github.com/polyedr/c7783f00c20839c7c1233f2aacfe510a#file-models-py)
   SQLAlchemy-модели для сервиса дедубликации торговых точек: пользователи, API-ключи, базовые методы ORM.  
-  [README](https://gist.github.com/polyedr/c7783f00c20839c7c1233f2aacfe510a)  
+  [README](https://gist.github.com/polyedr/c7783f00c20839c7c1233f2aacfe510a#file-readme-txt)  
 - **task_sd_work.py**  
   FSM-логика для Telegram-бота поддержки: обработка тикетов с изменением статусов задач (aiogram, intradesk).  
   [README]([ссылка-на-gist](https://gist.github.com/polyedr/a4584e832709eae77d4f439f077b1e07))  
