@@ -12,7 +12,7 @@
 
 ### Содержание
 
-- [**models.py**](https://gist.github.com/polyedr/c7783f00c20839c7c1233f2aacfe510a#file-models-py)
+- **[models.py](https://gist.github.com/polyedr/c7783f00c20839c7c1233f2aacfe510a#file-models-py)**
   SQLAlchemy-модели для сервиса дедубликации торговых точек: пользователи, API-ключи, базовые методы ORM.  
   [README](https://gist.github.com/polyedr/c7783f00c20839c7c1233f2aacfe510a#file-readme-txt)  
 - **task_sd_work.py**  
